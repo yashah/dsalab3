@@ -1,3 +1,4 @@
+/* Node class for all the questions except for Treap */
 public class Node
 {
 int key;
